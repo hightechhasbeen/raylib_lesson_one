@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/incude/**"
+                "/usr/inculde/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang++-18",

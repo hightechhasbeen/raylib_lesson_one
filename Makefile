@@ -11,4 +11,4 @@ main.o: src/main.cpp
 	$(CC) -c src/main.cpp $(CFLAGS)
 
 clean:
-	rm -f *.o *~ app_name
+	rm -f *.o *~ one
